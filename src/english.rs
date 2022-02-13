@@ -1,4 +1,8 @@
+//! # hello_world::english
+//! This is sample
+
 // hello_world::english::hello の定義
+/// return "Hello!"
 pub fn hello() -> String {
     "Hello!".to_string()
 }
